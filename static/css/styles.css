@@ -1,0 +1,26 @@
+.product-list {
+    max-width: 400px;
+    padding: 20px;
+}
+
+.product-write {
+    max-width: 400px;
+    padding: 20px;
+}
+
+.product-image {
+    width: 100px;
+}
+
+.product-btn{
+    max-width: 400px;
+    padding: 20px;
+}
+
+.media-body {
+    text-align: left;
+}
+
+#ModalContent {
+    white-space: pre-wrap;
+}
